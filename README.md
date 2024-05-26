@@ -41,7 +41,7 @@ Para instalar o projeto, siga os passos abaixo:
 5. Instale as dependências do projeto:
 
     ```
-    pip install -r requirements.txt
+    install pandas plotly geopandas
     ```
 
 ## Execução
