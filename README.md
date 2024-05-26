@@ -9,7 +9,7 @@ Para instalar o projeto, siga os passos abaixo:
 1. Clone o repositório para o seu computador:
 
     ```
-    git clone https://github.com/seu-usuario/vaccination_project.git
+    git clone https://github.com/W-Lim/vaccination_project.git
     ```
 
 2. Navegue até o diretório do projeto:
